@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Item Inspector",
+	"Description": "Framework for an in-game item inspector",
+	"Category": "Other",
+	"CreatedBy": "Dillon Bellefeuille",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ItemInspector",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
